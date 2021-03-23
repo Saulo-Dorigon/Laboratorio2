@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\CalculoBancario\obj\Debug\CalculoBancario.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CalculoBancario\obj\Debug\CalculoBancario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculoBancario\bin\Debug\CalculoBancario.exe.config
+C:\Users\Usuario\source\repos\CalculoBancario\bin\Debug\CalculoBancario.exe
+C:\Users\Usuario\source\repos\CalculoBancario\bin\Debug\CalculoBancario.pdb
+C:\Users\Usuario\source\repos\CalculoBancario\obj\Debug\CalculoBancario.exe
+C:\Users\Usuario\source\repos\CalculoBancario\obj\Debug\CalculoBancario.pdb
